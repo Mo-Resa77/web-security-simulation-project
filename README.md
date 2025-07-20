@@ -2,6 +2,7 @@
 
 ## 📝 Project Overview
 The **12th Project** is a hands-on web security simulation designed to emulate a Capture-the-Flag (CTF) environment. Teams build, secure, and attack local web servers to test offensive and defensive cybersecurity skills. The project involves setting up vulnerable web applications, performing attacks like SQL Injection and XSS, and monitoring attacks in real-time using Splunk for log analysis.
+
 NOTE : this only the frontend of website & apis linking 
 ---
 
